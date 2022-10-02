@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TV Maze</string>
+
+    <string name="fetch_posts_api_key_exception_message">To load the Posts list, you need to provide a non-null API Key.</string>
+    <string name="search_shows_on_loading_exception_message">To load the Posts list, you need to provide a non-null callback for the onLoadingCallback property.</string>
+    <string name="search_shows_on_success_exception_message">To load the Posts list, you need to provide a non-null callback for the onSuccessCallback property.</string>
+    <string name="search_shows_on_failure_exception_message">To load the Posts list, you need to provide a non-null callback for the onFailureCallback property.</string>
 </resources>
